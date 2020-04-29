@@ -1,0 +1,10 @@
+2020-04-29 17:04:182 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 17:04:959 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 17:04:522 INFO  HomePage :43 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-29 17:04:675 INFO  MyAccountPage :43 - Clicking on Login Tab :[[ChromeDriver: chrome on WINDOWS (9fb830eaf0db10217b6ee66198ef02de)] -> xpath: //a[contains(text(),'Log In')]]
+2020-04-29 17:04:161 INFO  HomePage :37 - Entering username  : 58998780 on Username Field [[ChromeDriver: chrome on WINDOWS (9fb830eaf0db10217b6ee66198ef02de)] -> id: username]
+2020-04-29 17:04:374 INFO  HomePage :46 - Confirming email  : tAA1D77 on Password Field [[ChromeDriver: chrome on WINDOWS (9fb830eaf0db10217b6ee66198ef02de)] -> id: password]
+2020-04-29 17:04:686 INFO  HomePage :55 - Clicking on Log in Buttton : [[ChromeDriver: chrome on WINDOWS (9fb830eaf0db10217b6ee66198ef02de)] -> id: submit]
+2020-04-29 17:04:46 INFO  HomePage :63 - Displaying Login Error Alert Message [[ChromeDriver: chrome on WINDOWS (9fb830eaf0db10217b6ee66198ef02de)] -> xpath: //div[@class='alert alert-error']]
+2020-04-29 17:04:966 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 18:04:913 INFO  BrowserSelector :21 - Launching Chrome Browser
